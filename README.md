@@ -1,1 +1,1 @@
-Yandex-Practicum course student's projects. 
+Гараж-лаборатория для поисков, проб и ошибок. 
